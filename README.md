@@ -3,6 +3,7 @@ Big thanks to Baimao as withoiut them this mod and the code wouldnt exist as wel
 
 This mod currently adds 6 partners
 Infatuation, Avarice, War, and Hunger. each of which give +2 mult to their respective suits. When combined with their partner they each give +8 mult to their respective suits instead.
-Also includes Scam and Dissent for the papernback mod if you have that installed
+
+Also includes Scam and Dissent for the paperback mod if you have that installed
 
 Thanks to ArchRail for the ModIcon
