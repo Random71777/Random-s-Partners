@@ -18,7 +18,7 @@ return {
                 },
             },
           pnr_RAND_wrathful_joker={
-                name = "war",
+                name = "War",
                 text = {
                    "Played cards with",
                     "{C:spades}#2#{} suit give",
@@ -26,7 +26,7 @@ return {
                 },
             },
            pnr_RAND_gluttenous_joker={
-                name = "hunger",
+                name = "Hunger",
                 text = {
                    "Played cards with",
                     "{C:clubs}#2#{} suit give",
