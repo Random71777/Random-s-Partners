@@ -31,6 +31,22 @@ return {
                    "Played cards with",
                     "{C:clubs}#2#{} suit give",
                     "{C:mult}+#1#{} Mult when scored",
+                  },
+            },      
+                    pnr_RAND_fraudulent_joker={
+                name = "Scam",
+                text = {
+                   "Played cards with",
+                    "{C:paperback_crowns}#2#{} suit give",
+                    "{C:mult}+#1#{} Mult when scored",
+                },
+            },
+            pnr_RAND_heretical_joker={
+                name = "Dissent",
+                text = {
+                   "Played cards with",
+                    "{C:paperback_stars}#2#{} suit give",
+                    "{C:mult}+#1#{} Mult when scored",
                 },
             },
         }
